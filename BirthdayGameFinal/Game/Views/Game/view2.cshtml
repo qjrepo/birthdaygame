@@ -1,0 +1,127 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<style>
+    body {
+        background-image: url("/image/Image0011.png");
+    }
+
+    .parent {
+        position: relative;
+    }
+
+    .over-img {
+        position: absolute;
+        top: 210px;
+        left: 500px;
+        bottom: 0px;
+        right: 1000px;
+    }
+
+    h1 {
+        font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond
+    }
+
+    h2 {
+        font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond
+    }
+
+    h3 {
+        font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond
+    }
+
+    h4 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        color: blanchedalmond
+    }
+</style>
+<body>
+    @*<a style="color:darkgrey" onclick="location.href='@Url.Action("Livingroom", "Game")'">LivingRoom |</a>
+         <a style="color:darkgrey" onclick="location.href='@Url.Action("Gameroom", "Game")'">GameRoom |</a>
+        <a style="color:darkgrey" onclick="location.href='@Url.Action("DiningRoom", "Game")'">DiningRoom |</a>
+        <a style="color:darkgrey" onclick="location.href='@Url.Action("Kitchen", "Game")'">Kitchen |</a>
+        <a style="color:darkgrey" onclick="location.href='@Url.Action("Present", "Game")'">PresentRoom</a>
+        <br/><br/><br/>*@
+    <h3>
+        @ViewData["Riddle"]
+
+    </h3>
+    @*<a asp-controller="Game" asp-action="Continue">click to continue</a>*@
+
+    <div class="parent">
+        <a asp-controller="Game" class="ui-btn" asp-action="Read" id="image">
+            @*<img src="/image/Image001.png" style="position: relative; width: 800px; height: 500px ">*@
+            <img class="over-img" src="/image/Image0022.png" style=" top:150px;  left:600px; width: 280px; height: 380px;">
+
+        </a>
+        <h1>
+            @ViewData["Read"]
+        </h1><br />
+        <h2>
+            @ViewData["Riddle1"]<br />
+        </h2>
+
+
+        @*<style>
+                form {
+                    display: none;
+                }
+            </style>*@
+    </div>
+    <h4> <a onclick="ToggleMe()">Got an answer?(click when ready)</a></h4>
+
+
+    <script>
+function ToggleMe() {
+            $('#toggleMe').toggle();
+            return false;
+      }</script>
+    @*<input type="button" onclick="ToggleMe()" value="toggle" formaction="/Game/Read" />*@
+
+    <form id="toggleMe" method="POST" style="display: none;">
+        <input formaction="Input" type="text" name="answer" />
+        <input formaction="Input" style="border-radius: 50%;font-family:sans-serif;background-color:aquamarine" type="submit" value="my guess" name="answer">
+        @*@Html.Raw(TempData["msg"])*@
+        @*@Html.Raw(TempData["sorry"])*@
+        @Html.Raw(TempData["sorry1"])
+        @if (!string.IsNullOrEmpty(ViewBag.MessageGuess))
+        {
+            <script type="text/javascript">
+                              alert("@ViewBag.MessageGuess");
+            </script>}@*//added*@
+        @if (!string.IsNullOrEmpty(ViewBag.MessageSorry))
+        {
+            <script type="text/javascript">
+                              alert("@ViewBag.MessageSorry");
+            </script>}@*//added*@
+        @if (!string.IsNullOrEmpty(ViewBag.MessageSorry1))
+        {
+            <script type="text/javascript">
+                              alert("@ViewBag.MessageSorry1");
+            </script>}@*//added*@
+
+    </form>
+
+
+
+    <br /><br />
+
+    <form id="form2">
+        <input formaction="/Game/DiningRoom" type="submit" value="Next" name="answer" style="width:80px; height: 40px;background-color:rgb(210, 180, 140);
+        font-size: 15px;font-family:'Times New Roman', Times, serif;display: inline-block;
+                        padding: 0px 10px;
+                        font-size: 24px;
+                        cursor: pointer;
+                        text-align: center;
+                        text-decoration: none;
+                        border-radius: 15px;">
+    </form>
+
+</body>

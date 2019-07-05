@@ -1,0 +1,374 @@
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/huihuanzhao/Desktop/homework/Game/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Firstroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Readroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/huihuanzhao/Desktop/homework/Game/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Firstroom.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Readroom.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/gameeeeeees/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/wu/Desktop/Game 2/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/Game 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/BirthdayGame/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/wu/Desktop/BirthdayGame 2/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/BirthdayGame 2/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/huihuanzhao/Desktop/midterm/BirthdayGameFinal1/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/wu/Desktop/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.deps.json
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.json
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.runtimeconfig.dev.json
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.Views.dll
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/bin/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorAssemblyInfo.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.input.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.TagHelpers.output.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorCoreGenerate.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Dining1.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/DiningRoom.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Gameroom.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Index.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Kitchen.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Livingroom.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Present.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/SeePresent.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Study1.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/Studyroom.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/view2.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Game/View4.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cache
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.RazorTargetAssemblyInfo.cs
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.Views.pdb
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.dll
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.pdb
+/Users/wu/Desktop/INFO6250WEB/BirthdayGameFinal/Game/obj/Debug/netcoreapp2.2/Game.csproj.CopyComplete

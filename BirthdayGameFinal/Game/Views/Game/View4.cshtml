@@ -1,0 +1,239 @@
+﻿
+@model Password
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+    div.a {
+        position: relative;
+        width: 100%;
+        height: 120px;
+    }
+
+    div.b {
+        position: absolute;
+        right: 0;
+        width: 100px;
+        height: 120px;
+    }
+
+    .w3-modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        padding-top: 100px; /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        text-align: center;
+    }
+
+    .w3-modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        text-align: center;
+    }
+
+    .column {
+        float: left;
+        width: 800px;
+        text-align: center;
+        border: solid black;
+        left: 500px
+    }
+
+        .column input {
+            width: 50px;
+            position: relative;
+            left: 0px;
+        }
+
+    div.column {
+        width: 56px;
+        margin-right: 10px;
+        position: relative;
+        left: 35px;
+    }
+
+    body {
+        background-image: url("/image/Image005.jpeg ");
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    #panel, #flip {
+        padding: 5px;
+        text-align: center;
+    }
+
+    #panel {
+        display: none;
+        text-align: center;
+    }
+</style>
+
+<body>
+    @*<div class="a">
+            <div class="b">
+                <div style="position:relative;right:50px; bottom:6px;font-weight:bolder;font-size:24px;color:white" id="flip">
+                    Bag
+                </div>
+                <div id="panel"  style="position:relative; padding:20px 35px;right:50px; text-align:center">
+                    @foreach (var i in ViewBag.List)
+            {
+                <p style="position:relative; font-size:20px; float:left; bottom:6px;color:white">@i</p><br />
+           }
+                </div>
+                <script>
+                    $(document).ready(function(){
+                      $("#flip").click(function(){
+                        $("#panel").slideToggle("slow");
+                      });
+                    });
+                </script>
+        </div>
+        </div>
+        <a style="float:right ;position:relative; bottom:120px;font-weight:bolder;font-size:24px;color:white" href="@Url.Action("Ghint","Game")">Hint</a>*@
+
+
+
+    @if (!string.IsNullOrEmpty(ViewBag.Messagecode))
+    {
+        <script type="text/javascript">
+                  alert("@ViewBag.Messagecode");
+        </script>
+    }
+    @*<h1>Present!!</h1>*@
+    @*<a onclick="show()" asp-controller="Game" asp-action="PresentContinue">
+            <img src="/image/Image006.png" style="position:relative; top:430px; left:500px;">
+        </a>*@
+    <a onclick="document.getElementById('id02').style.display='block'">
+        <img src="/image/Image006.png" style="position:relative; top:430px; left:400px;">
+    </a>
+
+    <div id="id02" class="w3-modal">
+        <div class="w3-modal-content">
+            <div class="w3-container">
+                <span onclick="document.getElementById('id02').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                <p>There is a locked case.</p>
+
+                @foreach (var i in ViewBag.List)
+
+                {<a href="@Url.Action("PresentContinue", "Game")">@i</a>
+                @*@if (i == "key")
+                    {
+                        <a href="@Url.Action("PresentContinue", "Game")">@i</a>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("Wrongchoicecase", "Game")">@i</a>
+                    }*@
+            }
+            </div>
+        </div>
+    </div>
+    @*<a onclick="document.getElementById('id02').style.display='block'" style="position:relative;bottom:0px;margin-right:0;"><img src="~/image/rsofa.jpg" style="width: 32%"></a>*@
+    <div class="w3-panel w3-pale-green" style=" opacity:0.8;background-color:wheat; position:relative; bottom:200px; left: 50px; font-weight: bolder; font-family:monospace; color:rgb(0,0,0); padding:10px;width:500px;height:350px">
+
+
+        @*@ViewData["Case"]<br />*@
+        @foreach (var i in ViewBag.Garden)
+        {
+
+            @if (i == "YaY! You find a present in the box, but needs code to open")
+            {
+                <a onclick="ToggleMe2()">@i</a>
+
+            }
+            else
+            {
+                <p>@i</p>
+            }}
+
+
+
+        @*<a onclick="ToggleMe1()">
+                @ViewData["pcontinue"]
+            </a>*@
+        @*<a style="display:none" id="toggleMe1" asp-controller="Game" asp-action="PresentContinue1">continue</a><br />*@
+        @*<a onclick="ToggleMe2()" id="div2">continue</a><br />*@
+
+        <a onclick="ToggleMe2()" id="div2" style="">
+            @ViewData["pcontinue1"]
+
+
+            <br />
+        </a>
+        <script>function ToggleMe1() {
+                        $('#toggleMe1').toggle();
+                        return false;
+                  }
+                function ToggleMe2() {
+                        $('#toggleMe2').toggle();
+                        return false;
+                  }</script>
+
+
+        <a id="toggleMe2" onclick="ToggleMe()" style="display:none; position:relative;top:10px; font-family:fantasy; font-size:28px">
+            PleAse  EnTer  YoUr  CoDe HeRe
+        </a>
+
+        <form action="" style="display: none;padding:20px " id="toggleMe">
+            @using (Html.BeginForm("Present", "Present"))
+            {
+
+                <div class="column">
+                    @Html.TextBoxFor(m => m.a)
+                </div>
+
+
+                <div class="column">
+
+                    @Html.TextBoxFor(m => m.b)
+                </div>
+
+
+                <div class="column">
+                    @Html.TextBoxFor(m => m.c)
+                </div>
+
+
+                <div class="column" style="">
+                    @Html.TextBoxFor(m => m.d)
+                </div><br />
+
+
+                <div>
+                    <input style="position:relative;height:38px; bottom:26px; left:40px; background-color:lightseagreen" type="submit" formaction="Present1" value="OK" />
+
+                    @*@Html.Raw(TempData["msg1"])
+                        @Html.Raw(TempData["msg2"])*@
+
+                </div>
+                <a asp-controller="Game" asp-action="seePresent" style="color:deepskyblue;font-size:20px">
+                    SeE YoUr PreSeNt
+                    <img src="/image/Image008.png" style="position:relative; top:0px; left:0px;">
+                </a><br />}
+            <br>
+            <script>function ToggleMe() {
+                        $('#toggleMe').toggle();
+                        return false;
+                  }</script>
+
+            @*@Html.Raw(TempData["presentlocked"])*@
+
+        </form><!-- form -->
+
+
+
+
+    </div><br />
+
+
+
+</body>

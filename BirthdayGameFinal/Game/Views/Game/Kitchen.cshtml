@@ -1,0 +1,135 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+    div.a {
+        position: relative;
+        width: 100%;
+        height: 120px;
+    }
+
+    div.b {
+        position: absolute;
+        right: 0;
+        width: 100px;
+        height: 120px;
+    }
+    .w3-modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        padding-top: 100px; /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    .w3-modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+    }
+    body {
+        background-image: url("/image/kitchen2.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%100%;
+    }
+    .column {
+        float: left;
+
+        text-align: center;
+
+        position: absolute;
+        bottom: 50px;
+        right: 0;
+    }
+    #panel, #flip {
+        padding: 5px;
+        text-align: center;
+    }
+
+    #panel {
+        display: none;
+        text-align: center;
+    }
+
+</style>
+<body>
+
+
+    <div class="a">
+        <div class="b">
+            <div style="position:relative;float:left;right:1100px; bottom:6px;font-weight:bolder;font-size:24px" id="flip">
+                Bag
+            </div>
+            <div id="panel" style="position:relative; padding:15px 40px;right:50px;">
+                @foreach (var i in Model)
+                {
+                    <p style="position:relative;font-size:20px; float:left;right:1080px; bottom:6px">@i</p><br />
+                }
+            </div>
+            <script>
+                $(document).ready(function(){
+                  $("#flip").click(function(){
+                    $("#panel").slideToggle("slow");
+                  });
+                });
+            </script>
+        </div>
+    </div>
+    <a style="float:right ;position:relative;right:1100px;bottom:120px;font-weight:bolder;font-size:24px;color:rgb(0,0,0)" href="@Url.Action("Khint","Game")">Hint</a>
+
+
+
+
+
+    <div class="w3-container">
+
+        <a onclick="document.getElementById('id01').style.display='block'" style="position:absolute;bottom:80px;left:700px"><img src="~/image/f1.png" style="width: 25%"></a>
+
+        <div id="id01" class="w3-modal">
+            <div class="w3-modal-content">
+                <div class="w3-container">
+                    <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                    <p>there are something lying at the bottom of the tank</p>
+                    @foreach (var i in Model)
+                    {@if (i == "Fish Rod")
+                        {
+                            <a href="@Url.Action("Continue4", "Game")">@i</a>
+                        }
+                        else
+                        {
+                            <a href="@Url.Action("Wrong", "Game")">@i</a>
+                        }
+                }
+                </div>
+            </div>
+        </div>
+    </div>
+    @foreach (var i in ViewBag.KitchenStory)
+    {
+        <h2 style="position:relative; top:0px;">@i</h2>
+    }
+
+    @*<div class="column">
+            <h2>Bag</h2>
+            @if (Model != null)
+            {
+                @foreach (var i in Model)
+                {
+                    <p>@i</p>
+                }}
+        </div>*@
+    @*<form>
+            <input formaction="/Game/Present" type="submit" value="Next" /><br />
+        </form><br />*@
+</body>

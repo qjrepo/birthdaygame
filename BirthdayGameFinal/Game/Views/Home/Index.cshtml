@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="generator" content="Adobe GoLive" />
+    <title>Home</title>
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+
+
+    <style>
+        .div1 {
+            width: 500px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        body {
+            background-image: url("/image/ImageCover.jpeg");
+        }
+    </style>
+</head>
+
+
+<body>
+    <a asp-controller="Game" asp-action="Livingroom" style=" position:relative; top:100px;left:135px; font-size:45px; color:black;font-weight:bolder; font-family:fantasy">Birthday Game</a>
+    <div class="div1">
+
+        <a style=" position:relative; top:240px; left:180px; color:rgb(77, 148, 255);  font-size:40px" asp-controller="Game" asp-action="Livingroom">Start</a>
+
+    </div>
+
+    <div class="w3-panel w3-pale-green" style="position:relative;left: 100px;
+      font-weight: bolder; font-family:monospace;
+      color:rgb(0,0,0); padding:10px;width:450px;height:140px
+      ;top:40px">
+        <p style=" font-weight:bolder; font-size:24px; color:rgb(255, 191, 0)">
+            It's your birthday today. And your present is somewhere in the house.
+        </p>
+        <p style="  font-weight:bolder; font-size:24px;color:rgb(255, 191, 0)">
+            need to find some clues in the house and those
+        </p>
+        <p style=" font-weight:bolder; font-size:24px;color:rgb(255, 191, 0) ">
+            clues will lead you to your birthday present. Have fun!
+        </p>
+
+    </div>
+
+
+</body>

@@ -1,0 +1,69 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <style>
+        body {
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-image: url("/image/study.jpg");
+        }
+
+        div.a {
+            position: relative;
+            width: 100%;
+            height: 120px;
+        }
+
+        div.b {
+            position: absolute;
+            right: 0;
+            width: 100px;
+            height: 120px;
+        }
+        #panel, #flip {
+            padding: 5px;
+            text-align: center;
+        }
+
+        #panel {
+            display: none;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+        
+            <a style="position:absolute;left:1230px;top:700px" href='@Url.Action("Studyroom", "Game")'><img src="~/image/paper.jpg" style="width: 40%"></a>
+
+    <div class="a">
+        <div class="b">
+            <div style="position:relative;right:50px; bottom:86px;font-weight:bolder;font-size:24px;color:black" id="flip">
+                Bag
+            </div>
+            <div id="panel" style="position:relative; text-align:center">
+                @foreach (var i in Model)
+                {
+                     <p style="position:relative; font-size:20px; float:left; right:30px; bottom:90px;color:rgb(255, 153, 51)">@i</p><br />
+                }
+            </div>
+            <script>$(document).ready(function(){
+                  $("#flip").click(function(){
+                    $("#panel").slideToggle("slow");
+                  });
+                });</script>
+        </div>
+    </div>
+    <a style="color:white;float:right ;position:relative; bottom:202px;font-weight:bolder;font-size:24px;color:black" href="@Url.Action("Shint","Game")">Hint</a>
+
+    <h3 style="color:black;position:relative; left:600px;bottom:160px;color:rgb(255, 153, 51)">
+        @ViewData["Shint"]
+
+    </h3>
+</body>
+</html>

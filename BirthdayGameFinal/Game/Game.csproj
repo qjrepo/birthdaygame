@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Game\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Game\Firstroom.cshtml" />
+    <Content Remove="Views\Game\Readroom.cshtml" />
+    <Content Remove="Views\Game\View.cshtml" />
+    <Content Remove="Views\Game\Present1.cshtml" />
+  </ItemGroup>
+</Project>

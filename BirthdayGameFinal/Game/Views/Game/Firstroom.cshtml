@@ -1,0 +1,250 @@
+﻿
+@{
+    ViewData["Title"] = "Living Room";
+}
+
+<html>
+<head>
+
+
+
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <style>
+        .w3-modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        .w3-modal-content {
+            background-color: #fefefe;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+        }
+
+        body {
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-image: url("/image/living.jpg");
+        }
+
+        #panel, #flip {
+            padding: 5px;
+            text-align: center;
+        }
+
+        #panel {
+            padding: 5px;
+            display: none;
+        }
+
+        #example1 {
+            position:sticky;
+            box-sizing: content-box;
+            margin-left:250px;
+            margin-right:auto;
+            height: 50px;
+            text-align:center;
+        }
+        #example2 {
+            position: sticky;
+            box-sizing: content-box;
+            margin-left: 20px;
+            margin-right: auto;
+            height: 50px;
+            text-align: center;
+        }
+        .column {
+            float: left;
+            width: 33.3%;
+            margin-top:400px;
+            text-align: center;
+            align-items: center;
+        }
+
+        /* Clearfix (clear floats) */
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+
+        .div2 {
+            box-sizing: border-box;
+            width: 50%;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .columninner {
+            float: left;
+            width: 33.3%;
+        }
+
+        /* Clearfix (clear floats) */
+        .rowinner::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <a color="blue" onclick="location.href='@Url.Action("Gameroom", "Game")'">GameRoom |</a>
+    <a color="blue" onclick="location.href='@Url.Action("Studyroom", "Game")'">StudyRoom |</a>
+    <a color="blue" onclick="location.href='@Url.Action("DiningRoom", "Game")'">DiningRoom |</a>
+    <a color="blue" onclick="location.href='@Url.Action("Kitchen", "Game")'">Kitchen |</a>
+    <a color="blue" onclick="location.href='@Url.Action("Present", "Game")'">PresentRoom</a>
+      <a id="flip">Bag</a>
+                <div id="panel">
+                    @if (Model != null)
+                    {
+                        @foreach (var i in Model)
+                        {
+                            <p>@i</p>
+                        }}
+                </div>
+
+
+
+
+    <div class="row">
+
+
+        <!-- middle column for story line -->
+        <div id="example1">
+            <br /><br /><br /><br /><br /><br /><br /><br />
+            @*<h2>story</h2>*@
+            <p>Today is your birthday, and your parent hide your birthday gift in the house. Let's find it!'</p>
+            @foreach (var i in ViewBag.Story)
+            {
+                <p>@i</p>
+            }
+
+        </div>
+
+
+        <div class="column">
+
+            <div>
+                <a class="button" onclick="location.href='@Url.Action("Sofa", "Game")'"><img src="~/image/sofaa.png" style="width: 100%"></a>
+            </div>
+            <div class="columninner">
+                <a class="a1" onclick="location.href='@Url.Action("Fish", "Game")'"><img src="~/image/rod.png" style="width: 50%"></a>
+            </div>
+        </div>
+
+        <div class="column">
+        <div class="w3-container">
+            
+            <a onclick="document.getElementById('id01').style.display='block'"><img src="~/image/table.png" style="width: 100%"></a>
+
+            <div id="id01" class="w3-modal">
+                <div class="w3-modal-content">
+                    <div class="w3-container">
+                        <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                        <p>Coffee table looks like bad...we should fix it</p>
+                        @foreach (var i in Model)
+                            {@if (i == "screwdriver")
+                                {
+                                     <a href="@Url.Action("Coffee", "Game")">@i</a>
+                                }
+                                    else if(i == "Fishing Rod")
+                                {
+                                     <a href="@Url.Action("Wrongchoice", "Game")">@i</a>
+                                }
+                          }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            </div>
+
+
+        <div class="column">
+            <div class="w3-container">
+
+                <a onclick="document.getElementById('id02').style.display='block'"><img src="~/image/rsofa.jpg" style="width: 100%"></a>
+
+                <div id="id02" class="w3-modal">
+                    <div class="w3-modal-content">
+                        <div class="w3-container">
+                            <span onclick="document.getElementById('id02').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                            <p>There is a locked case.</p>
+                            @foreach (var i in Model)
+                    {@if (i == "key2")
+                {
+                    <a href="@Url.Action("Case", "Game")">@i</a>
+        }
+        else
+        {
+            <a href="@Url.Action("Wrongchoicecase", "Game")">@i</a>
+}
+        }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @*<div>
+                <a class="button" onclick="location.href='@Url.Action("Sofaa", "Game")'"><img src="~/image/rightsofa.jpeg" style="width: 100%"></a>
+            </div>*@
+        </div>
+    </div>
+
+        @*<div class="column">
+
+
+                <div id="flip">Bag</div>
+                <div id="panel">
+                    @if (Model != null)
+                    {
+                        @foreach (var i in Model)
+                        {
+                            <p>@i</p>
+                        }}
+                </div>
+
+
+        </div>*@
+
+
+
+
+        <script>
+
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
+        </script>
+    <script>
+$(document).ready(function(){
+  $(".a1").click(function(){
+    $(".a1").hide();
+  });
+  $(".btn2").click(function(){
+    $("p").show();
+  });
+});
+</script>
+</body>
+</html>

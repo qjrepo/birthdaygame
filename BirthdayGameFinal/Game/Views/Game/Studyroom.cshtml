@@ -1,0 +1,175 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+    #panel, #flip {
+        padding: 5px;
+        text-align: center;
+    }
+
+    #panel {
+        display: none;
+        text-align: center;
+    }
+
+    div.a {
+        position: absolute;
+        width: 100%;
+        height: 120px;
+        bottom: 0;
+    }
+
+    div.b {
+        position: absolute;
+        right: 0;
+        width: 100px;
+        height: 120px;
+    }
+
+    body {
+        background-image: url("/image/Image0011.jpeg");
+    }
+
+    .parent {
+        position: relative;
+    }
+
+    .over-img {
+        position: absolute;
+        top: 210px;
+        left: 500px;
+        bottom: 0px;
+        right: 1000px;
+    }
+
+    h1 {
+        font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond
+    }
+
+    h2 {
+        font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond
+    }
+
+    h3 {
+        font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond
+    }
+
+    h4 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px;
+        color: blanchedalmond
+    }
+</style>
+<body>
+
+
+        <div class="b">
+            <div style="position:relative;right:150px; top:10px;font-weight:bolder;font-size:24px;color:blanchedalmond" id="flip">
+                Bag
+            </div>
+            <div id="panel" style="position:relative; text-align:center">
+                @foreach (var i in Model)
+                {
+                    <p style="position:relative; font-size:20px; float:left;right:120px; bottom:0px;color:blanchedalmond">@i</p><br />
+                }
+            </div>
+            <script>
+$(document).ready(function(){
+                  $("#flip").click(function(){
+                    $("#panel").slideToggle("slow");
+                  });
+                });</script>
+        </div>
+
+    <a style="color:white;float:right ;position:relative; top:15px;left:50px; font-weight:bolder;font-size:24px;color:blanchedalmond" href="@Url.Action("Sshint","Game")">Hint</a>
+
+
+
+
+    <h3>
+        @ViewData["Riddle"]
+
+    </h3>
+    @*<a asp-controller="Game" asp-action="Continue">click to continue</a>*@
+
+    <div class="parent">
+        <a asp-controller="Game" class="ui-btn" asp-action="Read" id="image">
+            @*<img src="/image/Image001.png" style="position: relative; width: 800px; height: 500px ">*@
+            <img class="over-img" src="/image/Image0022.png" style=" top:400px;  left:800px; width: 240px; height: 260px;">
+
+        </a>
+
+        @foreach (var i in ViewBag.Study)
+        {
+
+            @if (i == "Guess")
+            {
+                <a onclick="ToggleMe()"><img src="~/image/p.jpg" style="width: 10%"></a>
+            }
+            else
+            {
+                <h1>@i</h1>
+            }
+        }
+
+        @*@ViewData["Read"]
+            <br />
+            <h2>
+                @ViewData["Riddle1"]<br />
+            </h2>*@
+
+
+        @*<style>
+                form {
+                    display: none;
+                }
+            </style>*@
+    </div>
+
+
+    <script>
+function ToggleMe() {
+            $('#toggleMe').toggle();
+            return false;
+      }</script>
+    @*<input type="button" onclick="ToggleMe()" value="toggle" formaction="/Game/Read" />*@
+
+    <form id="toggleMe" method="POST" style="display: none;">
+        <input formaction="Input" type="text" name="answer" />
+
+        <input formaction="Input" style="width:100px; height: 40px;background-color:rgb(210, 180, 140);
+        font-size: 5px;font-family:'Times New Roman', Times, serif;display: inline-block;
+                        padding: 0px 10px;
+                        font-size: 18px;
+                        font-weight:bolder;
+                        cursor: pointer;
+                        text-align: center;
+                        text-decoration: none;
+                        border-radius: 15px;" type="submit" value="my guess" name="answer" />
+        @Html.Raw(TempData["msg"])
+        @Html.Raw(TempData["sorry"])
+        @Html.Raw(TempData["sorry1"])
+
+
+    </form>
+
+
+
+
+    <a asp-controller="Game" asp-action="Study1" style="position:absolute;float:left;bottom:30px;color:black;font-weight:bolder;font-family: cursive;
+        font-size: 35px;
+        color: blanchedalmond">Back</a>
+
+
+
+</body>

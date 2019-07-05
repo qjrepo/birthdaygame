@@ -1,0 +1,211 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Password
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+    div.a {
+        position: relative;
+        width: 100%;
+        height: 120px;
+    }
+
+    div.b {
+        position: absolute;
+        right: 0;
+        width: 100px;
+        height: 120px;
+    }
+    .column {
+        float: left;
+        width: 800px;
+        text-align: center;
+        border: solid black;
+        left: 500px
+    }
+
+        .column input {
+            width: 50px;
+            position: relative;
+            left: 0px;
+        }
+
+    div.column {
+        width: 56px;
+        margin-right: 10px;
+        position: relative;
+        left: 35px;
+    }
+
+    body {
+        background-image: url("/image/Image005.jpeg ");
+        background-repeat: no-repeat;
+        background-size:100%100%
+    }
+    #panel, #flip {
+        padding: 5px;
+        text-align: center;
+    }
+
+    #panel {
+        display: none;
+        text-align: center;
+    }
+    .w3-modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        padding-top: 100px; /* Location of the box */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    }
+
+    .w3-modal-content {
+        background-color: #fefefe;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+    }
+</style>
+
+<body>
+
+
+    @if (!string.IsNullOrEmpty(ViewBag.Messagecode))
+    {
+        <script type="text/javascript">
+                  alert("@ViewBag.Messagecode");
+        </script>
+    }
+    @*<h1>Present!!</h1>*@
+
+    <div class="w3-container">
+
+        <a onclick="document.getElementById('id01').style.display='block'"><img src="/image/Image006.png" style="position:absolute; top:435px; left:730px;"></a>
+
+        <div id="id01" class="w3-modal">
+            <div class="w3-modal-content">
+                <div class="w3-container">
+                    <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                    <p>It locked..</p>
+                    @foreach (var i in ViewBag.List)
+                    {@if (i == "key")
+                        {<a onclick="show()" asp-controller="Game" asp-action="PresentContinue">@i</a>
+
+                        }
+                        else
+                        {
+                         <a onclick="show()" asp-controller="Game" asp-action="PresentNoContinue">@i</a>
+                        }
+                }
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="w3-panel w3-pale-green" style=" opacity:0.8;background-color:wheat; position:absolute; bottom:400px; left: 250px; font-weight: bolder; font-family:monospace; color:rgb(0,0,0); padding:10px;width:450px;height:360px">
+
+
+        @ViewData["Case"]<br />
+        @ViewData["nocontinue"]<br />
+    <a onclick="ToggleMe1()">
+        @ViewData["pcontinue"]
+    </a>
+    <a style="display:none" id="toggleMe1" asp-controller="Game" asp-action="PresentContinue1">
+        <img src="/image/Image11.png">
+    </a><br />
+    <a onclick="ToggleMe()" id="div2" style="">
+        @* changed *@
+        @ViewData["pcontinue1"]
+
+
+        <br />
+    </a>
+    <script>
+function ToggleMe1() {
+                        $('#toggleMe1').toggle();
+                        return false;
+                  }
+                function ToggleMe2() {
+                        $('#toggleMe2').toggle();
+                        return false;
+                  }</script>
+
+
+
+
+    @*<a id="toggleMe2" onclick="ToggleMe()" style="display:none; position:relative;top:10px; font-family:fantasy; font-size:28px">
+        PleAse  EnTer  YoUr  CoDe HeRe
+    </a>*@
+
+    <form action="" style="display: none;padding:20px " id="toggleMe">
+        @using (Html.BeginForm("Present", "Present"))
+    {
+        <h1 style="position:relative;top:10px; top:0px; font-family:fantasy; font-size:26px">PleAse EnTer YoUr CoDe HeRe</h1>
+
+        <div class="column">
+            @Html.TextBoxFor(m => m.a)
+        </div>
+
+
+        <div class="column">
+
+            @Html.TextBoxFor(m => m.b)
+        </div>
+
+
+        <div class="column">
+            @Html.TextBoxFor(m => m.c)
+        </div>
+
+
+        <div class="column" style="">
+            @Html.TextBoxFor(m => m.d)
+        </div><br />
+
+
+        <div>
+            <input style="position:relative;height:38px; bottom:26px; left:40px; background-color:lightseagreen" type="submit" formaction="Present1" value="OK" />
+
+            @Html.Raw(TempData["msg1"])
+            @Html.Raw(TempData["msg2"])
+
+        </div>
+        <a asp-controller="Game" asp-action="seePresent" style="color:deepskyblue;font-size:20px">
+            SeE YoUr PreSeNt
+            <img src="/image/Image008.png" style="position:relative; top:0px; left:0px;">
+        </a><br />}
+        <br>
+        <script>
+function ToggleMe() {
+                        $('#toggleMe').toggle();
+                        return false;
+                  }</script>
+
+        @Html.Raw(TempData["presentlocked"])
+
+    </form><!-- form -->
+    @*<div class="column">
+        <h2>Bag</h2>
+        @if (ViewBag.List != null)
+        {
+            @foreach (var i in ViewBag.List)
+            {
+                <p>@i</p>
+            }}
+    </div>*@
+
+
+    @Html.Raw(TempData["presentlocked"])
+    </div><br />
+</body>

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{8AD74592-E133-4F47-9A6A-E462B360D50D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game/Views/Game/Studyroom.cshtml">
+    <Files>
+      <File FileName="Game/Properties/launchSettings.json" Line="21" Column="26" />
+      <File FileName="Game/Views/Game/Present.cshtml" Line="99" Column="1" />
+      <File FileName="Game/Startup.cs" Line="30" Column="17" />
+      <File FileName="Game/Controllers/GameController.cs" Line="757" Column="17" />
+      <File FileName="Game/Views/Game/DiningRoom.cshtml" Line="1" Column="1" />
+      <File FileName="Game/Views/Game/Gameroom.cshtml" Line="107" Column="80" />
+      <File FileName="Game/Views/Game/Study1.cshtml" Line="1" Column="1" />
+      <File FileName="Game/Views/Game/Studyroom.cshtml" Line="147" Column="23" />
+      <File FileName="Game/Views/Game/Dining1.cshtml" Line="94" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game" expanded="True">
+            <Node name="Game" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="Studyroom.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
